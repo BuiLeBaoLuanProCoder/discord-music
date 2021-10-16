@@ -1,5 +1,5 @@
 ## Thông Tin
-bot discord music được remake thêm treo 24/24 trên repl.it và việt hóa bởi Nguyễn Duy An từ phiên bản git gốc
+bot discord music được remake chạy trên repl.it 24/24 bằng uptimerobot và việt hóa bởi Nguyễn Duy An từ phiên bản git gốc
 https://github.com/eritislami
 
 ## cài đặt
@@ -41,7 +41,7 @@ Các ngôn ngữ hiện có sẵn là:
 • Korean (ko)
 • Brazilian Portuguese (pt_br)
 • Simplified Chinese (zh_cn)
-• Vietnam (vi_VN) thêm vào bởi Nguyễn Duy An
+• Vietnam (vi_VN) việt hóa bởi Nguyễn Duy An
 ## 📝 Tính năng & Lệnh
 
 > Note: prefix mặc định là '/'
