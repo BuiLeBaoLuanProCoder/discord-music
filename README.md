@@ -48,13 +48,13 @@ Các ngôn ngữ hiện có sẵn là:
 
 * 🎶 sử dụng YouTube Url
 
-`/play https://www.youtube.com/c/Vevo`
+`/play https://www.youtube.com/watch?v=_8ldAdQd9WU`
 
 * 🔎 Phát nhạc qua Tên
 
-`/play FatRat Fire`
+`/play cưới thôi`
 
 * 🔎 tìm nhạc
 
-`/search Imperial March Trap Remix by Goblins from Mars`
+`/search chill lofi việt`
 
