@@ -34,7 +34,7 @@ vào config.json
 ## Ngôn Ngữ
 Các ngôn ngữ hiện có sẵn là:
 
-• English (en)\n
+• English (en)
 • French (fr)
 • Spanish (es)
 • Turkish (tr)
